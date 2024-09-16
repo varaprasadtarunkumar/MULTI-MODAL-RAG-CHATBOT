@@ -64,7 +64,7 @@ git clone https://github.com/varaprasadtarunkumar/MULTI-MODAL-RAG-CHATBOT.git
 ### Step 2: Navigate to the Project Directory
 Change into the project directory:
 ```bash
-cd MULTIMODAL_RAG_BOT
+cd MULTI-MODAL-RAG-CHATBOT
 ```
 ### Step 3: Install the Dependencies
 Install all required libraries and packages:
