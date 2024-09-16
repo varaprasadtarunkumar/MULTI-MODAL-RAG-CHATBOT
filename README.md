@@ -59,7 +59,7 @@ Here’s a sneak peek into the code that runs behind this chatbot, leveraging La
 ### Step 1: Clone the Repository
 Bash
 
-git clone https://github.com/gannemjahnavi/MultiModal_RAG_BOT.git
+git clone https://github.com/varaprasadtarunkumar/MULTI-MODAL-RAG-CHATBOT.git
 
 ### Step 2: Navigate to the Project Directory
 Change into the project directory:
